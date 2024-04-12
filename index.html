@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library Management System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>LYBUOOK SYSTEM</h1>
+    </header>
+    <main>
+        <div id="addBookForm">
+            <input type="text" id="searchInput" placeholder="Search...">
+            <input type="text" id="titleInput" placeholder="Title">
+            <input type="text" id="authorInput" placeholder="Author">
+            <input type="text" id="quantityInput" placeholder="Quanity">
+            <button id="addBookButton">Add Book</button>
+            <button id="reportButton">Generate Report</button>
+        </div>
+    </main>
+
+    <div id="content">
+        <h1>User Report Includes Books Borrowed and Returned</h1>
+        <!-- Content will be dynamically populated here -->
+    </div>
+
+    <div id="myModal" class="modal">
+        <div class="report" id="reportContent">
+            <span class="close">&times;</span>
+        </div>
+    </div>
+
+
+    <footer>
+        <p>&copy; 2024 Library Management System</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>

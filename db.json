@@ -1,0 +1,139 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "HTM/CSS/JavaScript",
+        "author": "Andrew John",
+        "quantity": 5
+      },
+      {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Arman Tsarukyan",
+        "quantity": 0
+
+      },
+      {
+        "id": 3,
+        "title": "The Great Gatsby",
+        "author": "Brian Gatari",
+        "quantity": 5
+      },
+      {
+        "id": 4,
+        "title": "The Great Run",
+        "author": "Ken Block",
+        "quantity": 20
+      },
+      {
+        "id": 5,
+        "title": "Damu Nyeusi",
+        "author": "Moran Publishers",
+        "quantity": 100
+      },
+      {
+        "id": 6,
+        "title": "The River and the Source",
+        "author": "Moran Publishers",
+        "quantity": 15
+      },
+      {
+        "id": 7,
+        "title": "Game of Thrones",
+        "author": "George Raymond Richard Martin",
+        "quantity": 4
+      },
+      {
+        "id": 8,
+        "title": "A Song of Ice and Fire",
+        "author": "George Raymond Richard Martin",
+        "quantity": 3
+      },
+      {
+        "id": 9,
+        "title": "Mathematics Form 1",
+        "author": "Moran Publishers",
+        "quantity": 20
+      },
+      {
+        "id": 10,
+        "title": "House of the Dragon",
+        "author": "George Raymond Richard Martin",
+        "quantity": 5
+      },
+      {
+        "id": 11,
+        "title": "Mr-Robot",
+        "author": "Elliot Alderson",
+        "quantity": 180
+      },
+      {
+        "id": 12,
+        "title": "History Form 1",
+        "author": "Moran Publishers",
+        "quantity": 5
+      },
+      {
+        "id": 13,
+        "title": "Software Development",
+        "author": "Flariton",
+        "quantity": 6
+      },
+      {
+        "id": 14,
+        "title": "Computer Studies Form 3",
+        "author": "Moran Publishers",
+        "quantity": 50
+      },
+      {
+        "id": 15,
+        "title": "Python Programming",
+        "author": "Moring School",
+        "quantity": 2
+      },
+      {
+        "id": 16,
+        "title": "Cyber Security Fundamental",
+        "author": "Moring School",
+        "quantity": 10
+      },
+      {
+        "id": 17,
+        "title": "Mechanical Engineering",
+        "author": "Toyota Automotive",
+        "quantity": 200
+      },
+      {
+        "id": 18,
+        "title": "Art of Mixed Martial Arts",
+        "author": "Bruce Lee",
+        "quantity": 0
+      },
+      {
+        "id": 19,
+        "title": "Knowledge to the World",
+        "author": "Brian Onduso",
+        "quantity": 20
+      },
+      {
+        "id": 20,
+        "title": "Programming C++",
+        "author": "Katana",
+        "quantity": 1
+      },
+      {
+        "id": 21,
+        "title": "Kiswahili Kitukuzwe",
+        "author": "Wala Bin Wala",
+        "quantity": 0
+      },
+      {
+        "id": 22,
+        "title": "The Beauty and The Beast",
+        "author": "Raymond Douglas",
+        "quantity": 5
+      }
+   
+    ]
+  }
+  
