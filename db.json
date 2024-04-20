@@ -2,7 +2,7 @@
     "books": [
       {
         "id": 1,
-        "title": "HTM/CSS/JavaScript",
+        "title": "HTML/CSS/JavaScript",
         "author": "Andrew John",
         "quantity": 5
       },
@@ -88,13 +88,13 @@
       {
         "id": 15,
         "title": "Python Programming",
-        "author": "Moring School",
+        "author": "Moringa School",
         "quantity": 2
       },
       {
         "id": 16,
         "title": "Cyber Security Fundamental",
-        "author": "Moring School",
+        "author": "Moringa School",
         "quantity": 10
       },
       {
