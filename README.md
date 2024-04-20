@@ -22,4 +22,4 @@ JavaScript
 JSON (API)
 
 # License
-KEBS Copyright
+Copyright
